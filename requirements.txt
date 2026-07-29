@@ -1,0 +1,9 @@
+numpy
+pandas
+mne
+scikit-learn
+tensorflow
+matplotlib
+scipy
+PyWavelets
+joblib
