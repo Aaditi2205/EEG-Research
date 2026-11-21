@@ -283,9 +283,9 @@ If you use this repository in your research, please cite:
 
 ## Authors
 
-**Shreya Madan**
+**Aaditi Malhotra**
 
-Department of Computer Science, IGDTUW
+Department of ECE, IGDTUW
 
 ---
 
